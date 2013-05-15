@@ -33,8 +33,13 @@ Key UP DOWN RIGHT LEFT
 Dependencies
 ========
 
-SDL OPENGL SFML NCURSES libraries.
+SDL* OPENGL SFML NCURSES libraries.
 
 HF
+
+![=> SCREENSHOT <=](snakeopengl.jpg "epikong")
+![=> SCREENSHOT <=](snakesfml.jpg "epikong")
+![=> SCREENSHOT <=](snakencurses.jpg "epikong")
+
 
 Axel Catusse
