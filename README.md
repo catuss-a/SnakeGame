@@ -1,7 +1,7 @@
 SnakeGame
 =========
 
-SnakeGame is developped in C++ and let you choose which graphic library you want to execute SnakeGame with.
+SnakeGame is developped in C++ and let you choose which graphic library you want to use while executing the game :)
 
 Usage
 ========
