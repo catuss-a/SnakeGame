@@ -20,7 +20,10 @@ Example of use
 ========
 
 ./nibbler 20 20 ./lib_nibbler_opengl.so
-./nibbler 20 20 ./lib_nibbler_SFML.so
+
+or
+
+./nibbler 40 20 ./lib_nibbler_SFML.so
 
 GamePlay:
 ========
