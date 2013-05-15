@@ -1,12 +1,3 @@
-//
-// Grid.cpp for nibbler in /home/moreau_c//work/nibbler
-// 
-// Made by christopher moreau
-// Login   <moreau_c@epitech.net>
-// 
-// Started on  Wed Mar  2 14:14:42 2011 christopher moreau
-// Last update Sun Mar 20 21:14:18 2011 christopher moreau
-//
 
 #include <cstdlib>
 

@@ -1,12 +1,3 @@
-//
-// SfmlWindow.hh for lib_nibbler_sfml in /home/moreau_c//work/nibbler/lib_nibbler_sfml
-// 
-// Made by christopher moreau
-// Login   <moreau_c@epitech.net>
-// 
-// Started on  Wed Mar  2 16:25:22 2011 christopher moreau
-// Last update Sun Mar 20 22:17:37 2011 isabel jimenez
-//
 
 #ifndef		SFMLWINDOW_HH_
 # define	SFMLWINDOW_HH_

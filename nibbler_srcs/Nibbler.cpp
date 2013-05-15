@@ -1,12 +1,3 @@
-//
-// Nibbler.cpp for nibbler in /home/moreau_c//work/nibbler-2014-moreau_c
-// 
-// Made by christopher moreau
-// Login   <moreau_c@epitech.net>
-// 
-// Started on  Tue Mar 15 16:38:30 2011 christopher moreau
-// Last update Sun Mar 20 22:12:22 2011 isabel jimenez
-//
 
 #include <dlfcn.h>
 

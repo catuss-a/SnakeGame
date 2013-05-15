@@ -1,12 +1,3 @@
-//
-// create_window.cpp for nibbler in /home/moreau_c//work/nibbler/lib_nibbler_sfml
-// 
-// Made by christopher moreau
-// Login   <moreau_c@epitech.net>
-// 
-// Started on  Wed Mar  2 14:49:27 2011 christopher moreau
-// Last update Sun Mar 20 22:51:44 2011 isabel jimenez
-//
 
 #include <iostream>
 #include <sstream>

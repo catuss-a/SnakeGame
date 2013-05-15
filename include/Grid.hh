@@ -1,12 +1,3 @@
-//
-// Map.hh for nibbler in /home/moreau_c//work/nibbler
-// 
-// Made by christopher moreau
-// Login   <moreau_c@epitech.net>
-// 
-// Started on  Wed Mar  2 14:09:47 2011 christopher moreau
-// Last update Sun Mar 20 21:03:41 2011 christopher moreau
-//
 
 #ifndef		GRID_HH_
 # define	GRID_HH_

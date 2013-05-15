@@ -1,4 +1,37 @@
 SnakeGame
 =========
 
-Snake is a casual video game that originated during the late 1970s in arcades and has maintained popularity since then, becoming something of a classic. After it became the standard pre-loaded game on Nokia mobile phones in 1998, Snake found a massive audience.
+SnakeGame is developped in C++ and let you choose which graphic library you want to execute SnakeGame with.
+
+Usage
+========
+
+nibbler x y ./lib.so
+
+where x and y must be between 20 and 60.
+
+Libraries
+========
+
+The Dynamic libraries availables are Opengl SFML and ncurses. You can choose then one of them and even,
+if you like, code your view with another one.
+
+Example of use
+========
+
+./nibbler 20 20 ./lib_nibbler_opengl.so
+./nibbler 20 20 ./lib_nibbler_SFML.so
+
+GamePlay:
+========
+
+Key UP DOWN RIGHT LEFT
+
+Dependencies
+========
+
+SDL OPENGL SFML NCURSES libraries.
+
+HF
+
+Axel Catusse

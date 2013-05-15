@@ -1,12 +1,3 @@
-//
-// Food.cpp for  in /home/jimene_i//nibbler-2014-moreau_c/nibbler_srcs
-// 
-// Made by isabel jimenez
-// Login   <jimene_i@epitech.net>
-// 
-// Started on  Wed Mar 16 15:16:16 2011 isabel jimenez
-// Last update Sun Mar 20 20:11:20 2011 christopher moreau
-//
 
 #include <time.h>
 #include <stdlib.h>

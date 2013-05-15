@@ -1,12 +1,3 @@
-//
-// DlLoader.cpp for DlLoader in /home/moreau_c//work/nibbler/nibbler-2014-moreau_c/nibbler
-// 
-// Made by christopher moreau
-// Login   <moreau_c@epitech.net>
-// 
-// Started on  Wed Mar  9 22:19:46 2011 christopher moreau
-// Last update Sun Mar 20 21:56:30 2011 isabel jimenez
-//
 
 #include <dlfcn.h>
 #include <iostream>

@@ -1,12 +1,3 @@
-##
-## Makefile for nibbler in /home/moreau_c//work/nibbler/lib_nibbler_sfml
-## 
-## Made by christopher moreau
-## Login   <moreau_c@epitech.net>
-## 
-## Started on  Wed Mar  2 14:56:26 2011 christopher moreau
-## Last update Sun Mar 20 12:42:19 2011 christopher moreau
-##
 
 NAME 		=	lib_nibbler_ncurses.so
 SRCS 		=	NcursesWindow.cpp

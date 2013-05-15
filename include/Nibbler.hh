@@ -1,12 +1,3 @@
-//
-// Nibbler.hh for  in /home/moreau_c//work/nibbler/nibbler
-// 
-// Made by christopher moreau
-// Login   <moreau_c@epitech.net>
-// 
-// Started on  Thu Mar  3 13:11:14 2011 christopher moreau
-// Last update Sun Mar 20 22:47:03 2011 isabel jimenez
-//
 
 #ifndef NIB_H
 # define NIB_H

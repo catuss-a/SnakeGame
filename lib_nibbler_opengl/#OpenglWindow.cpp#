@@ -1,12 +1,3 @@
-//
-// OpenglWindow.cpp for nibler in /home/catuss_a//Desktop/nibbler/nibbler-2014-moreau_c/lib_nibbler_opengl
-// 
-// Made by axel catusse
-// Login   <catuss_a@epitech.net>
-// 
-// Started on  Wed Mar 16 20:11:16 2011 axel catusse
-// Last update Sun Mar 20 21:33:24 2011 isabel jimenez
-//
 
 #include "Excp.hh"
 #include "OpenglWindow.hh"

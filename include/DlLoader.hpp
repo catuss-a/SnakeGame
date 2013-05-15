@@ -1,12 +1,3 @@
-//
-// DlLoader.hpp for DlLoader in /home/moreau_c//work/nibbler/nibbler-2014-moreau_c/nibbler
-// 
-// Made by christopher moreau
-// Login   <moreau_c@epitech.net>
-// 
-// Started on  Wed Mar  9 22:19:56 2011 christopher moreau
-// Last update Sun Mar 20 22:13:10 2011 isabel jimenez
-//
 
 #ifndef		DLLOADER_HH_
 # define	DLLOADER_HH_

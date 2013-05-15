@@ -1,12 +1,3 @@
-//
-// OpenglWindow.hh for opengl in /home/catuss_a//Desktop/nibbler/nibbler-2014-moreau_c/lib_nibbler_opengl
-// 
-// Made by axel catusse
-// Login   <catuss_a@epitech.net>
-// 
-// Started on  Wed Mar 16 01:14:46 2011 axel catusse
-// Last update Sun Mar 20 21:30:07 2011 isabel jimenez
-//
 
 #ifndef OPENGLWINDOW_HH_
 # define OPENGLWINDOW_HH_

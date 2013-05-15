@@ -1,12 +1,3 @@
-//
-// NcursesWindow.cpp for nibbler in /home/moreau_c//work/nibbler-2014-moreau_c/lib_nibbler_ncurses
-// 
-// Made by christopher moreau
-// Login   <moreau_c@epitech.net>
-// 
-// Started on  Thu Mar 17 15:54:57 2011 christopher moreau
-// Last update Sun Mar 20 21:32:50 2011 isabel jimenez
-//
 
 #include <curses.h>
 

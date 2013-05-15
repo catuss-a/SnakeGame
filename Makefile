@@ -1,12 +1,3 @@
-##
-## Makefile for Nibbler in /home/moreau_c//work/nibbler/nibbler-2014-moreau_c
-## 
-## Made by christopher moreau
-## Login   <moreau_c@epitech.net>
-## 
-## Started on  Fri Mar 11 13:34:20 2011 christopher moreau
-## Last update Sun Mar 20 22:49:56 2011 isabel jimenez
-##
 
 CORE_NAME	= 	nibbler
 CORE_DIR	= 	nibbler_srcs
