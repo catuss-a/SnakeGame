@@ -13,8 +13,8 @@ where x and y must be between 20 and 60.
 Libraries
 ========
 
-The Dynamic libraries availables are Opengl SFML and ncurses. You can choose then one of them and even,
-if you like, code your view with another one.
+The Dynamic libraries availables are Opengl SFML and ncurses. You can choose one of them and even
+if you like, code your view with another graphic library.
 
 Example of use
 ========
